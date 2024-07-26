@@ -4,8 +4,12 @@
 + Large language models and multimodal foundation models for precision oncology, NPJ Precision Oncology 2024. [[Paper]](https://www.nature.com/articles/s41698-024-00573-2)
 + Artificial intelligence for digital and computational pathology, Nature Reviews Bioengineering 2023. [[Paper]](https://arxiv.org/pdf/2401.06148)
 ## Papers
-+ PathoTune: Adapting Visual Foundation Model to Pathological Specialists, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.16497) [[Code]](https://github.com/openmedlab/PathoDuet)
 + MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.06800) [[Code]](https://arxiv.org/pdf/2403.06800)
++ PathoTune: Adapting Visual Foundation Model to Pathological Specialists, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2403.16497) [[Code]](https://github.com/openmedlab/PathoDuet)
++ Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2407.14426)
++ Towards a text-based quantitative and explainable histopathology image analysis, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2407.07360) [[Code]](https://github.com/QuIIL/TQx)
++ CausalCellSegmenter: Causal Inference inspired Diversified Aggregation Convolution for Pathology Image Segmentation, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2403.06066)
++ Reducing self-supervised learning complexity improves weakly-supervised classification performance in computational pathology, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2403.04558)
 + Prompting Vision Foundation Models for Pathology Image Analysis, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf) [[Code]](https://github.com/7LFB/QAP)
 + Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Phan_Decomposing_Disease_Descriptions_for_Enhanced_Pathology_Detection_A_Multi-Aspect_Vision-Language_CVPR_2024_paper.pdf) [[Code]](https://github.com/HieuPhan33/CVPR2024_MAVL)
 + Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Feature_Re-Embedding_Towards_Foundation_Model-Level_Performance_in_Computational_Pathology_CVPR_2024_paper.pdf) [[Code]](https://github.com/DearCaat/RRT-MIL)
