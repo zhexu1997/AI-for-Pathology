@@ -1,8 +1,11 @@
 # AI-for-Pathology
 ## Surveys
-+ Foundation model for advancing healthcare: Challenges, opportunities, and future directions, arXiv2024. [[Paper]](https://arxiv.org/pdf/2404.03264) [[Project]](https://github.com/YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare)
++ Foundation model for advancing healthcare: Challenges, opportunities, and future directions, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2404.03264) [[Project]](https://github.com/YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare)
++ A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2310.05694) [[Project]](https://github.com/KaiHe-better/LLM-for-Healthcare)
++ Data-Centric Foundation Models in Computational Healthcare: A Survey, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2401.02458)
 + Large language models and multimodal foundation models for precision oncology, NPJ Precision Oncology 2024. [[Paper]](https://www.nature.com/articles/s41698-024-00573-2)
 + Artificial intelligence for digital and computational pathology, Nature Reviews Bioengineering 2023. [[Paper]](https://arxiv.org/pdf/2401.06148)
++ Foundational models in medical imaging: A comprehensive survey and future vision, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2310.18689) [[Project]](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging)
 ## Papers
 + MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.06800) [[Code]](https://arxiv.org/pdf/2403.06800)
 + PathoTune: Adapting Visual Foundation Model to Pathological Specialists, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2403.16497) [[Code]](https://github.com/openmedlab/PathoDuet)
