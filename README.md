@@ -23,6 +23,9 @@
 +  Rotation-Agnostic Image Representation Learning for Digital Pathology, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Alfasly_Rotation-Agnostic_Image_Representation_Learning_for_Digital_Pathology_CVPR_2024_paper.pdf) [[Code]](https://kimialabmayo.github.io/PathDino-Page/)
 + Towards a general-purpose foundation model for computational pathology, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-024-02857-3.epdf?sharing_token=CzM2TCW_6hilYJ6BCMgx5dRgN0jAjWel9jnR3ZoTv0PwDLGHgijc_t52lQyxVvw552KDCUhMbS4KuO_rvLnP6S1BpmIj9puojkF8lfR5R8uEX08B0FxePgIH0t7DovKvZF4NHQKlq4TZHGAA1wEIdkYKvcr8nUsaa-nNYbNw3JI%3D) [[Code]](https://github.com/mahmoodlab/UNI)
 + Transformer-based unsupervised contrastive learning for histopathological image classification, Medical Image Analysis 2022. [[Paper]](https://helios2.mi.parisdescartes.fr/~lomn/Cours/ACP/Complement/cTransPAth.pdf) [[Code]](https://github.com/Xiyue-Wang/TransPath)
+### LLM
++ Adapted Large Language Models Can Outperform Medical Experts in Clinical Text Summarization, Nature Medicine 2024. [[Paper]](https://arxiv.org/pdf/2309.07430)
++ Large Language Models Encode Clinical Knowledge, Nature 2023. [[Paper]](https://arxiv.org/pdf/2212.13138)
 
 ### MLM
 + Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Phan_Decomposing_Disease_Descriptions_for_Enhanced_Pathology_Detection_A_Multi-Aspect_Vision-Language_CVPR_2024_paper.pdf) [[Code]](https://github.com/HieuPhan33/CVPR2024_MAVL)
