@@ -27,9 +27,12 @@
 + Transformer-based unsupervised contrastive learning for histopathological image classification, Medical Image Analysis 2022. [[Paper]](https://helios2.mi.parisdescartes.fr/~lomn/Cours/ACP/Complement/cTransPAth.pdf) [[Code]](https://github.com/Xiyue-Wang/TransPath)
 + Self supervised contrastive learning for digital histopathology, Machine Learning with Applications 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2666827021000992) [[Code]](https://github.com/ozanciga/self-supervised-histopathology?tab=readme-ov-file)
 ### LLM
++ BiMediX: Bilingual Medical Mixture of Experts LLM, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2402.13253) [[Code]](https://github.com/mbzuai-oryx/BiMediX)
 + Adapted Large Language Models Can Outperform Medical Experts in Clinical Text Summarization, Nature Medicine 2024. [[Paper]](https://arxiv.org/pdf/2309.07430)
 + Towards expert-level medical question answering with large language models, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2305.09617)
 + Large Language Models Encode Clinical Knowledge, Nature 2023. [[Paper]](https://arxiv.org/pdf/2212.13138)
++ Huatuogpt-ii, one-stage training for medical adaption of llms, COLM 2024. [[Paper]](https://arxiv.org/pdf/2311.09774) [[Code]](https://github.com/FreedomIntelligence/HuatuoGPT-II)
++ HuatuoGPT, towards Taming Language Model to Be a Doctor, EMNLP 2023. [[Paper]](https://arxiv.org/pdf/2305.15075) [[Code]](https://github.com/FreedomIntelligence/HuatuoGPT)
 
 ### MLM
 + Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Phan_Decomposing_Disease_Descriptions_for_Enhanced_Pathology_Detection_A_Multi-Aspect_Vision-Language_CVPR_2024_paper.pdf) [[Code]](https://github.com/HieuPhan33/CVPR2024_MAVL)
