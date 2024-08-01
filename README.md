@@ -28,6 +28,7 @@
 + Self supervised contrastive learning for digital histopathology, Machine Learning with Applications 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2666827021000992) [[Code]](https://github.com/ozanciga/self-supervised-histopathology?tab=readme-ov-file)
 ### LLM
 + Adapted Large Language Models Can Outperform Medical Experts in Clinical Text Summarization, Nature Medicine 2024. [[Paper]](https://arxiv.org/pdf/2309.07430)
++ Towards expert-level medical question answering with large language models, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2305.09617)
 + Large Language Models Encode Clinical Knowledge, Nature 2023. [[Paper]](https://arxiv.org/pdf/2212.13138)
 
 ### MLM
