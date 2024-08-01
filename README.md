@@ -35,6 +35,7 @@
 + HuatuoGPT, towards Taming Language Model to Be a Doctor, EMNLP 2023. [[Paper]](https://arxiv.org/pdf/2305.15075) [[Code]](https://github.com/FreedomIntelligence/HuatuoGPT)
 
 ### MLM
++ A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model, arXiv 2024. [[Paper]](https://arxiv.org/abs/2407.15362)
 + Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Phan_Decomposing_Disease_Descriptions_for_Enhanced_Pathology_Detection_A_Multi-Aspect_Vision-Language_CVPR_2024_paper.pdf) [[Code]](https://github.com/HieuPhan33/CVPR2024_MAVL)
 + ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.pdf) [[Code]](https://github.com/Jiangbo-Shi/ViLa-MIL)
 + A Multimodal Generative AI Copilot for Human Pathology, Nature 2024. [[Paper]](https://www.nature.com/articles/s41586-024-07618-3) [[AiXiv]](https://arxiv.org/pdf/2312.07814) [[Code]](https://github.com/fedshyvana/pathology_mllm_training)
