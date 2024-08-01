@@ -42,6 +42,10 @@
 + A visual-language foundation model for computational pathology, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-023-02504-3.epdf?sharing_token=2umlCrKLgEIF8vmuLpQ7AtRgN0jAjWel9jnR3ZoTv0NWSxjlTuWM3jUBxiqED7ai3ueIDYQ_xX2BBBGXn0IDY_RMdGid_ppbXRxR40prhjrWvtzO3o_QB1gW6NTYt8EB0UO5VjWecg4rWh3LM_L-Rf59L6s9Fx7yR521Lp3GfhU%3D) [[Code]](https://github.com/mahmoodlab/CONCH)
 + A visual–language foundation model for pathology image analysis using medical Twitter, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-023-02504-3.epdf?sharing_token=2umlCrKLgEIF8vmuLpQ7AtRgN0jAjWel9jnR3ZoTv0NWSxjlTuWM3jUBxiqED7ai3ueIDYQ_xX2BBBGXn0IDY_RMdGid_ppbXRxR40prhjrWvtzO3o_QB1gW6NTYt8EB0UO5VjWecg4rWh3LM_L-Rf59L6s9Fx7yR521Lp3GfhU%3D) [[Code]](https://huggingface.co/spaces/vinid/webplip)
 
+### Others
++ Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in medicine, npj digital medicine 2024. [[Paper]](https://www.nature.com/articles/s41746-024-01185-7?fromPaywallRec=false)
++ Demographic bias in misdiagnosis by computational pathology models, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-024-02885-z.epdf?sharing_token=eFiSitgoBRMhuXIq6n8c-tRgN0jAjWel9jnR3ZoTv0NYPqVo1LCdipUMRepKsM_GUUvsvU5K2bZ3A2cu2jGYzRqeePzKrCjvhlJOTbwpdwL8UTZ4JR338f19cDSk1GOHmLQmjtKlpNaQLvJMSABezkCyM0NU06nKhkdOcN4d9TE%3D) [[Code]](https://github.com/mahmoodlab/CPATH_demographics?tab=readme-ov-file)
+
 ## People and Groups
 + [Smart Lab](https://hkustsmartlab.github.io/), HKUST.
 + [Mahmood Lab](https://faisal.ai/), Harvard Medical School.
