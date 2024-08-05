@@ -8,6 +8,7 @@
 + Foundational models in medical imaging: A comprehensive survey and future vision, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2310.18689) [[Project]](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging)
 ## Papers
 ### VLM
++ Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2407.18449)
 + MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.06800) [[Code]](https://arxiv.org/pdf/2403.06800)
 + PathoTune: Adapting Visual Foundation Model to Pathological Specialists, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2403.16497) [[Code]](https://github.com/openmedlab/PathoDuet)
 + Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2407.14426)
