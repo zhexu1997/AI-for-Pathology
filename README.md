@@ -49,6 +49,7 @@
 + Learned representation-guided diffusion models for large-image generation, CVPR 2024. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Graikos_Learned_Representation-Guided_Diffusion_Models_for_Large-Image_Generation_CVPR_2024_paper.pdf) 
 + GenSelfDiff-HIS: Generative Self-Supervision Using Diffusion for Histopathological Image Segmentation, ArXiv 2023. [[Paper]](https://arxiv.org/pdf/2309.01487)
 + PathLDM: Text conditioned Latent Diffusion Model for Histopathology, WACV 2024. [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Yellapragada_PathLDM_Text_Conditioned_Latent_Diffusion_Model_for_Histopathology_WACV_2024_paper.pdf) [[Code]](https://github.com/cvlab-stonybrook/PathLDM)
++ ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis, MICCAI 2023. [[Paper]](https://arxiv.org/pdf/2304.01053) 
 ### Others
 + Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in m dicine, npj digital medicine 2024. [[Paper]](https://www.nature.com/articles/s41746-024-01185-7?fromPaywallRec=false)
 + Demographic bias in misdiagnosis by computational pathology models, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-024-02885-z.epdf?sharing_token=eFiSitgoBRMhuXIq6n8c-tRgN0jAjWel9jnR3ZoTv0NYPqVo1LCdipUMRepKsM_GUUvsvU5K2bZ3A2cu2jGYzRqeePzKrCjvhlJOTbwpdwL8UTZ4JR338f19cDSk1GOHmLQmjtKlpNaQLvJMSABezkCyM0NU06nKhkdOcN4d9TE%3D) [[Code]](https://github.com/mahmoodlab/CPATH_demographics?tab=readme-ov-file)
