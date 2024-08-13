@@ -46,7 +46,9 @@
 + Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images, CVPR 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.pdf) [[Code]](https://github.com/mahmoodlab/MI-Zero)
 + Text-guided foundation model adaptation for pathological image classification, MICCAI 2023. [[Paper]](https://arxiv.org/pdf/2307.14901) [[Code]](https://github.com/Yunkun-Zhang/CITE)
 ### Generative 
-+ Learned representation-guided diffusion models for large-image generation, CVPR 2024. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Graikos_Learned_Representation-Guided_Diffusion_Models_for_Large-Image_Generation_CVPR_2024_paper.pdf) 
++ Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2407.14434)
++ Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models， MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2407.14426)
++ Learned representation-guided diffusion models for large-image generation, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Graikos_Learned_Representation-Guided_Diffusion_Models_for_Large-Image_Generation_CVPR_2024_paper.pdf) 
 + GenSelfDiff-HIS: Generative Self-Supervision Using Diffusion for Histopathological Image Segmentation, ArXiv 2023. [[Paper]](https://arxiv.org/pdf/2309.01487)
 + PathLDM: Text conditioned Latent Diffusion Model for Histopathology, WACV 2024. [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Yellapragada_PathLDM_Text_Conditioned_Latent_Diffusion_Model_for_Histopathology_WACV_2024_paper.pdf) [[Code]](https://github.com/cvlab-stonybrook/PathLDM)
 + ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis, MICCAI 2023. [[Paper]](https://arxiv.org/pdf/2304.01053) 
