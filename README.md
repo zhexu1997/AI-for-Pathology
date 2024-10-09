@@ -6,6 +6,7 @@
 + Large language models and multimodal foundation models for precision oncology, NPJ Precision Oncology 2024. [[Paper]](https://www.nature.com/articles/s41698-024-00573-2)
 + Artificial intelligence for digital and computational pathology, Nature Reviews Bioengineering 2023. [[Paper]](https://arxiv.org/pdf/2401.06148)
 + Foundational models in medical imaging: A comprehensive survey and future vision, arXiv 2023. [[Paper]](https://arxiv.org/pdf/2310.18689) [[Project]](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging)
++ Deep learning-enabled virtual histological staining of biological samples, Light: Science & Applications, 2023. [[Paper]](https://www.nature.com/articles/s41377-023-01104-7.pdf)
 ## Papers
 ### VLM
 + Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2407.18449)
@@ -45,13 +46,26 @@
 + Quilt-1m: One million image-text pairs for histopathology, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://quilt1m.github.io/)
 + Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images, CVPR 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Visual_Language_Pretrained_Multiple_Instance_Zero-Shot_Transfer_for_Histopathology_Images_CVPR_2023_paper.pdf) [[Code]](https://github.com/mahmoodlab/MI-Zero)
 + Text-guided foundation model adaptation for pathological image classification, MICCAI 2023. [[Paper]](https://arxiv.org/pdf/2307.14901) [[Code]](https://github.com/Yunkun-Zhang/CITE)
-### Generative 
+### T2I Generation 
 + Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2407.14434)
 + Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2407.14426)
 + Learned representation-guided diffusion models for large-image generation, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Graikos_Learned_Representation-Guided_Diffusion_Models_for_Large-Image_Generation_CVPR_2024_paper.pdf) [[Code]](https://github.com/cvlab-stonybrook/Large-Image-Diffusion?tab=readme-ov-file)
 + GenSelfDiff-HIS: Generative Self-Supervision Using Diffusion for Histopathological Image Segmentation, ArXiv 2023. [[Paper]](https://arxiv.org/pdf/2309.01487)
 + PathLDM: Text conditioned Latent Diffusion Model for Histopathology, WACV 2024. [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Yellapragada_PathLDM_Text_Conditioned_Latent_Diffusion_Model_for_Histopathology_WACV_2024_paper.pdf) [[Code]](https://github.com/cvlab-stonybrook/PathLDM)
-+ ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis, MICCAI 2023. [[Paper]](https://arxiv.org/pdf/2304.01053) 
++ ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis, MICCAI 2023. [[Paper]](https://arxiv.org/pdf/2304.01053)
+### I2I Generation
++ Advancing H&E-to-IHC Virtual Staining with Task-Specific Domain Knowledge for HER2 Scoring, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/3227_paper.pdf)[[Code]](https://github.com/balball/TDKstain)
++ Boosting FFPE-to-HE Virtual Staining with Cell Semantics from Pretrained Segmentation Model, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/3335_paper.pdf) [[Code]](https://github.com/huyihuang/FFPE-to-HE)
++ Exploiting Supervision Information in Weakly Paired Images for IHC Virtual Staining, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/3332_paper.pdf)
++ Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/2078_paper.pdf) [[Code]](https://github.com/ccitachi/PSPStain)
++ Virtual Immunohistochemistry Staining for Histological Images Assisted by Weakly-supervised Learning, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Virtual_Immunohistochemistry_Staining_for_Histological_Images_Assisted_by_Weakly-supervised_Learning_CVPR_2024_paper.pdf) [[Code]](https://github.com/jiahanli2022/confusion-GAN)
++ Virtual histological staining of unlabeled autopsy tissue, Nature Communications 2024. [[Paper]](https://www.nature.com/articles/s41467-024-46077-2.pdf) [[Code]](https://github.com/liyuzhu1998/Autopsy-Virtual-Staining/tree/main)
++ Deep learning-based virtual staining, segmentation, and classification in label-free photoacoustic histology of human specimens, Light: Science & Applications, 2024. [[Paper]](https://www.nature.com/articles/s41377-024-01554-7.pdf) [[Code]](https://github.com/YoonChiHo/DL-based-framework-for-automated-HIA-of-label-free-PAH-images)
++ Accelerating histopathology workflows with generative AI-based virtually multiplexed tumour profiling, Nature Machine Intelligence, 2024。 [[Paper]](https://www.nature.com/articles/s42256-024-00889-5.pdf) [[Code]](https://github.com/AI4SCR/VirtualMultiplexer)
++ Efficient Supervised Pretraining of Swin-Transformer for Virtual Staining of Microscopy Images, TMI 2024. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10328980&casa_token=odssktYO2RwAAAAA:uutFKPeBtzTGdxoGaAZ159cLlYl4U7GSZnnbZZM_I0nGes_ivz6lEkBeWkB9Pc4pZX0yfs_Q4mM) [[Code]](https://github.com/birkhoffkiki/CAS-Transformer)
++ PST-Diff: Achieving High-consistency Stain Transfer by Diffusion Models with Pathological and Structural Constraints, TMI 2024. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10601703&casa_token=6ZeQbdZo83kAAAAA:LTuZ3L3cNe9VHcxdRZSoXqCObJu3G22AJFP_aGUX4LG6h_QZvSIjRf6kcBsWyhKkFgdLlLOgIOk)
++ PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains, Medical Image Analysis 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841524002147?casa_token=3T5rOS0PhFIAAAAA:HFrJUB9u6wQJcGtgYuKutzLxnJBi4Ks-iWqiPzaf9Fg3tNFlMcpsdmDrqK1iB8PCXIoJTU2dVwg) [[Code]](https://github.com/openmedlab/PathoDuet)
++ BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix, CVPRW 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/CVMI/papers/Liu_BCI_Breast_Cancer_Immunohistochemical_Image_Generation_Through_Pyramid_Pix2pix_CVPRW_2022_paper.pdf) [[Code]](https://bupt-ai-cz.github.io/BCI/)
 ### Others
 + Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in m dicine, npj digital medicine 2024. [[Paper]](https://www.nature.com/articles/s41746-024-01185-7?fromPaywallRec=false)
 + Demographic bias in misdiagnosis by computational pathology models, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-024-02885-z.epdf?sharing_token=eFiSitgoBRMhuXIq6n8c-tRgN0jAjWel9jnR3ZoTv0NYPqVo1LCdipUMRepKsM_GUUvsvU5K2bZ3A2cu2jGYzRqeePzKrCjvhlJOTbwpdwL8UTZ4JR338f19cDSk1GOHmLQmjtKlpNaQLvJMSABezkCyM0NU06nKhkdOcN4d9TE%3D) [[Code]](https://github.com/mahmoodlab/CPATH_demographics?tab=readme-ov-file)
