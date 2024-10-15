@@ -58,6 +58,7 @@
 + Boosting FFPE-to-HE Virtual Staining with Cell Semantics from Pretrained Segmentation Model, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/3335_paper.pdf) [[Code]](https://github.com/huyihuang/FFPE-to-HE)
 + Exploiting Supervision Information in Weakly Paired Images for IHC Virtual Staining, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/3332_paper.pdf)
 + Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/2078_paper.pdf) [[Code]](https://github.com/ccitachi/PSPStain)
++ DiffMix: Diffusion Model-based Data Synthesis for Nuclei Segmentation and Classification in Imbalanced Pathology Image Datasets, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2306.14132)
 + Virtual Immunohistochemistry Staining for Histological Images Assisted by Weakly-supervised Learning, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Virtual_Immunohistochemistry_Staining_for_Histological_Images_Assisted_by_Weakly-supervised_Learning_CVPR_2024_paper.pdf) [[Code]](https://github.com/jiahanli2022/confusion-GAN)
 + Virtual histological staining of unlabeled autopsy tissue, Nature Communications 2024. [[Paper]](https://www.nature.com/articles/s41467-024-46077-2.pdf) [[Code]](https://github.com/liyuzhu1998/Autopsy-Virtual-Staining/tree/main)
 + Deep learning-based virtual staining, segmentation, and classification in label-free photoacoustic histology of human specimens, Light: Science & Applications, 2024. [[Paper]](https://www.nature.com/articles/s41377-024-01554-7.pdf) [[Code]](https://github.com/YoonChiHo/DL-based-framework-for-automated-HIA-of-label-free-PAH-images)
@@ -72,8 +73,6 @@
 ### Others
 + Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in m dicine, npj digital medicine 2024. [[Paper]](https://www.nature.com/articles/s41746-024-01185-7?fromPaywallRec=false)
 + Demographic bias in misdiagnosis by computational pathology models, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-024-02885-z.epdf?sharing_token=eFiSitgoBRMhuXIq6n8c-tRgN0jAjWel9jnR3ZoTv0NYPqVo1LCdipUMRepKsM_GUUvsvU5K2bZ3A2cu2jGYzRqeePzKrCjvhlJOTbwpdwL8UTZ4JR338f19cDSk1GOHmLQmjtKlpNaQLvJMSABezkCyM0NU06nKhkdOcN4d9TE%3D) [[Code]](https://github.com/mahmoodlab/CPATH_demographics?tab=readme-ov-file)
-+ DiffMix: Diffusion Model-based Data Synthesis for Nuclei Segmentation and Classification in Imbalanced Pathology Image Datasets, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2306.14132)
-
 ## People and Groups
 + [Smart Lab](https://hkustsmartlab.github.io/), HKUST.
 + [Mahmood Lab](https://faisal.ai/), Harvard Medical School.
