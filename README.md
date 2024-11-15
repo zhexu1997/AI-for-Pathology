@@ -54,7 +54,7 @@
 + PathLDM: Text conditioned Latent Diffusion Model for Histopathology, WACV 2024. [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Yellapragada_PathLDM_Text_Conditioned_Latent_Diffusion_Model_for_Histopathology_WACV_2024_paper.pdf) [[Code]](https://github.com/cvlab-stonybrook/PathLDM)
 + ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis, MICCAI 2023. [[Paper]](https://arxiv.org/pdf/2304.01053)
 ### I2I Generation
-+ Advancing H&E-to-IHC Virtual Staining with Task-Specific Domain Knowledge for HER2 Scoring, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/3227_paper.pdf)[[Code]](https://github.com/balball/TDKstain)
++ Advancing H&E-to-IHC Virtual Staining with Task-Specific Domain Knowledge for HER2 Scoring, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/3227_paper.pdf) [[Code]](https://github.com/balball/TDKstain)
 + Boosting FFPE-to-HE Virtual Staining with Cell Semantics from Pretrained Segmentation Model, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/3335_paper.pdf) [[Code]](https://github.com/huyihuang/FFPE-to-HE)
 + Exploiting Supervision Information in Weakly Paired Images for IHC Virtual Staining, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/3332_paper.pdf)
 + Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining, MICCAI 2024. [[Paper]](https://papers.miccai.org/miccai-2024/paper/2078_paper.pdf) [[Code]](https://github.com/ccitachi/PSPStain)
@@ -76,5 +76,6 @@
 ## People and Groups
 + [Smart Lab](https://hkustsmartlab.github.io/), HKUST.
 + [Mahmood Lab](https://faisal.ai/), Harvard Medical School.
++ [OpenMEDLab](https://github.com/openmedlab)
 ## Resources
 + [Awesome-Foundation-Models-for-Advancing-Healthcare](https://github.com/YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare)
