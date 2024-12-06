@@ -1,5 +1,6 @@
 # AI-for-Pathology
 ## Surveys
++ Graph Neural Networks in Histopathology: Emerging Trends and Future Directions, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2406.12808)
 + Foundation model for advancing healthcare: Challenges, opportunities, and future directions, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2404.03264) [[Project]](https://github.com/YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare)
 + A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2310.05694) [[Project]](https://github.com/KaiHe-better/LLM-for-Healthcare)
 + Data-Centric Foundation Models in Computational Healthcare: A Survey, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2401.02458)
@@ -9,6 +10,7 @@
 + Deep learning-enabled virtual histological staining of biological samples, Light: Science & Applications, 2023. [[Paper]](https://www.nature.com/articles/s41377-023-01104-7.pdf)
 ## Papers
 ### VLM
++ Multimodal Whole Slide Foundation Model for Pathology, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2411.19666) [[Code]](https://github.com/mahmoodlab/TITAN)
 + Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2407.18449)
 + MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2403.06800) [[Code]](https://arxiv.org/pdf/2403.06800)
 + PathoTune: Adapting Visual Foundation Model to Pathological Specialists, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2403.16497) [[Code]](https://github.com/openmedlab/PathoDuet)
@@ -70,6 +72,9 @@
 + StainDiff: Transfer Stain Styles of Histology Images with Denoising Diffusion Probabilistic Models and Self-Ensemble, MICCAI 2023. [[Paper]](https://link.springer.com/epdf/10.1007/978-3-031-43987-2_53?sharing_token=USlvHa4KCa0yfgjwzi-v0_e4RwlQNchNByi7wbcMAY7jxNo0bliUewITgRTD3ZK5MCg3ig12I68XFqBSO8sjxfbXg6aF3-OhSFqLEIV2d97CJYVwsb-jQ6HCOj1p_9QFw0dKRg8Yf_TR7izxU2spWiJV_1MQXpt80NDAsZ4JwLs%3D)
 + MulHiST: Multiple Histological Staining for Thick Biological Samples via Unsupervised Image-to-Image Translation, MICCAI 2023. [[Paper]](https://link.springer.com/epdf/10.1007/978-3-031-43987-2_71sharing_token=vw71r1FBJEDBpzyS6_MUzPe4RwlQNchNByi7wbcMAY7jxNo0bliUewITgRTD3ZK59goddOmnxh-67oF2XQOZKNcmmAnr0vwIpAWBZbwflK7PMvqbJ3MziqUy20lIdFW7cMf8IHIjEPbsBrwBujH2qijEfOvr6xxRNJMJtSqDRrw%3D) [[Code]](https://github.com/TABLAB-HKUST/MulHiST)
 + BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix, CVPRW 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/CVMI/papers/Liu_BCI_Breast_Cancer_Immunohistochemical_Image_Generation_Through_Pyramid_Pix2pix_CVPRW_2022_paper.pdf) [[Code]](https://bupt-ai-cz.github.io/BCI/)
+### I2R Generation
++ Learning to predict RNA sequence expressions from whole slide images with applications for search and classification,  Communications Biology 2024. [[Paper]](https://www.nature.com/articles/s42003-023-04583-x.pdf)
++ Digital profiling of gene expression from histology images with linearized attention, Nature Communications 2024. [[Paper]](https://www.nature.com/articles/s41467-024-54182-5.pdf) [[Code]](https://github.com/gevaertlab/sequoia-pub)
 ### Others
 + Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in m dicine, npj digital medicine 2024. [[Paper]](https://www.nature.com/articles/s41746-024-01185-7?fromPaywallRec=false)
 + Demographic bias in misdiagnosis by computational pathology models, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-024-02885-z.epdf?sharing_token=eFiSitgoBRMhuXIq6n8c-tRgN0jAjWel9jnR3ZoTv0NYPqVo1LCdipUMRepKsM_GUUvsvU5K2bZ3A2cu2jGYzRqeePzKrCjvhlJOTbwpdwL8UTZ4JR338f19cDSk1GOHmLQmjtKlpNaQLvJMSABezkCyM0NU06nKhkdOcN4d9TE%3D) [[Code]](https://github.com/mahmoodlab/CPATH_demographics?tab=readme-ov-file)
