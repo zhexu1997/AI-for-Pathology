@@ -75,6 +75,9 @@
 ### I2R Generation
 + Learning to predict RNA sequence expressions from whole slide images with applications for search and classification,  Communications Biology 2024. [[Paper]](https://www.nature.com/articles/s42003-023-04583-x.pdf)
 + Digital profiling of gene expression from histology images with linearized attention, Nature Communications 2024. [[Paper]](https://www.nature.com/articles/s41467-024-54182-5.pdf) [[Code]](https://github.com/gevaertlab/sequoia-pub)
+### I2T Generation
++ WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole Slide Images, MICCAI 2024. [[Paper]](https://arxiv.org/abs/2311.16480) [[Code]](https://github.com/cpystan/Wsi-Caption?tab=readme-ov-file)
++ HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction, MICCAI 2024. [[Paper]](https://arxiv.org/pdf/2403.05396) [[Code]](https://github.com/dddavid4real/HistGen)
 ### Others
 + Hidden flaws behind expert-level accuracy of multimodal GPT-4 vision in m dicine, npj digital medicine 2024. [[Paper]](https://www.nature.com/articles/s41746-024-01185-7?fromPaywallRec=false)
 + Demographic bias in misdiagnosis by computational pathology models, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-024-02885-z.epdf?sharing_token=eFiSitgoBRMhuXIq6n8c-tRgN0jAjWel9jnR3ZoTv0NYPqVo1LCdipUMRepKsM_GUUvsvU5K2bZ3A2cu2jGYzRqeePzKrCjvhlJOTbwpdwL8UTZ4JR338f19cDSk1GOHmLQmjtKlpNaQLvJMSABezkCyM0NU06nKhkdOcN4d9TE%3D) [[Code]](https://github.com/mahmoodlab/CPATH_demographics?tab=readme-ov-file)
