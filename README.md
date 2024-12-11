@@ -83,7 +83,7 @@
 + Demographic bias in misdiagnosis by computational pathology models, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-024-02885-z.epdf?sharing_token=eFiSitgoBRMhuXIq6n8c-tRgN0jAjWel9jnR3ZoTv0NYPqVo1LCdipUMRepKsM_GUUvsvU5K2bZ3A2cu2jGYzRqeePzKrCjvhlJOTbwpdwL8UTZ4JR338f19cDSk1GOHmLQmjtKlpNaQLvJMSABezkCyM0NU06nKhkdOcN4d9TE%3D) [[Code]](https://github.com/mahmoodlab/CPATH_demographics?tab=readme-ov-file)
 ## Dataset
 + HEST-1k: A Dataset for Spatial Transcriptomics and Histology Image Analysis, NeurIPS 2024. [[Paper]](https://arxiv.org/pdf/2406.16192) [[Project]](https://github.com/mahmoodlab/hest)
-+ [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
++ The Cancer Genome Atlas Program, (TCGA). [[Web]](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
 ## People and Groups
 + [Smart Lab](https://hkustsmartlab.github.io/), HKUST.
 + [Mahmood Lab](https://faisal.ai/), Harvard Medical School.
