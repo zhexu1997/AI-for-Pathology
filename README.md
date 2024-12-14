@@ -83,6 +83,8 @@
 + Demographic bias in misdiagnosis by computational pathology models, Nature Medicine 2024. [[Paper]](https://www.nature.com/articles/s41591-024-02885-z.epdf?sharing_token=eFiSitgoBRMhuXIq6n8c-tRgN0jAjWel9jnR3ZoTv0NYPqVo1LCdipUMRepKsM_GUUvsvU5K2bZ3A2cu2jGYzRqeePzKrCjvhlJOTbwpdwL8UTZ4JR338f19cDSk1GOHmLQmjtKlpNaQLvJMSABezkCyM0NU06nKhkdOcN4d9TE%3D) [[Code]](https://github.com/mahmoodlab/CPATH_demographics?tab=readme-ov-file)
 ## Dataset
 + HEST-1k: A Dataset for Spatial Transcriptomics and Histology Image Analysis, NeurIPS 2024. [[Paper]](https://arxiv.org/pdf/2406.16192) [[Project]](https://github.com/mahmoodlab/hest)
++ PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology, ECCV 2024. [[Paper]](https://arxiv.org/pdf/2401.16355) [[Project]](https://pathmmu-benchmark.github.io/#/)
++ Quilt-1m: One million image-text pairs for histopathology, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://quilt1m.github.io/)
 + The Cancer Genome Atlas Program, (TCGA). [[Web]](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
 ## People and Groups
 + [Smart Lab](https://hkustsmartlab.github.io/), HKUST.
